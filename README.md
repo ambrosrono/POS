@@ -1,0 +1,2 @@
+# POS
+The Point of Sale (POS) System using PHP MySQL with Source Code is a PHP project that manages the sale transaction of a certain store. The project is developed for the medical store or Pharmacy. This system stores all the products that the store or pharmacy is selling, then the system user will encode the sale transaction on the sales page when the data saved or submitted the transaction will be stored in the database for reporting purposes.
